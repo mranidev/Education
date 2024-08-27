@@ -69,4 +69,4 @@ Education is a robust and scalable web-based education management system designe
 This project is licensed under the MIT License. See the LICENSE file for more information.
 Contact
 
-For any inquiries or feedback, please contact us at your.email@example.com.
+For any inquiries or feedback, please contact us at mranidev@proton.me.
